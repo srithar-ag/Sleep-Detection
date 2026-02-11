@@ -1,4 +1,4 @@
-# 😴 Real-Time Drowsiness Detection System
+# Real-Time Sleep (Eye-closed, it alarms) Detection System
 
 A real-time computer vision–based drowsiness detection system that monitors eye movements using facial landmarks and triggers an audio alert when prolonged eye closure is detected.
 
