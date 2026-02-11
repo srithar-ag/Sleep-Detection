@@ -43,6 +43,12 @@ This project is designed as a **Digital Image Processing (DIP) / Computer Vision
  
  └── assets/
 
+## Required Downloads
+
+- shape_predictor_68_face_landmarks.dat from official site for dataset
+ 
+--
+
 ## Acknowledgements
 
 dlib facial landmark model
