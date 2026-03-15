@@ -33,7 +33,7 @@ This project is designed as a **Digital Image Processing (DIP) / Computer Vision
 ## Drowsiness-Detection/
  ├── detect_drowsiness.py
  
- ├── shape_predictor_68_face_landmarks.dat
+├── shape_predictor_68_face_landmarks.dat
  
  ├── alarm.wav
  
@@ -45,14 +45,14 @@ This project is designed as a **Digital Image Processing (DIP) / Computer Vision
 
 ## Required Downloads
 
-- shape_predictor_68_face_landmarks.dat from official site for dataset
- 
---
+```
+shape_predictor_68_face_landmarks.dat from official site for dataset
+``` 
 
 ## Acknowledgements
 
-dlib facial landmark model
+- dlib facial landmark model
 
-OpenCV community
+- OpenCV community
 
-imutils by Adrian Rosebrock
+- imutils by Adrian Rosebrock
