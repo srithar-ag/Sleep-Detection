@@ -56,3 +56,5 @@ shape_predictor_68_face_landmarks.dat from official site for dataset
 - OpenCV community
 
 - imutils by Adrian Rosebrock
+
+alarm.wav can be replaced by your required sound track
