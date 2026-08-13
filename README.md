@@ -48,11 +48,6 @@ This project is designed as a **Digital Image Processing (DIP) / Computer Vision
 ```
 shape_predictor_68_face_landmarks.dat from official site for dataset
 ``` 
-
-## Acknowledgements
-
-- dlib facial landmark model
-
 - OpenCV community
 
 - imutils by Adrian Rosebrock
